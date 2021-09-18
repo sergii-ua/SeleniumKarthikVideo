@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sergi\\source\\repos\\NUnitTestProject2\\NUnitTestProject2\\NUnitTestProject2.csproj": {}
+    "D:\\Projects\\Selenium\\SeleniumKarthikVideo\\NUnitTestProject2\\NUnitTestProject2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sergi\\source\\repos\\NUnitTestProject2\\NUnitTestProject2\\NUnitTestProject2.csproj": {
+    "D:\\Projects\\Selenium\\SeleniumKarthikVideo\\NUnitTestProject2\\NUnitTestProject2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sergi\\source\\repos\\NUnitTestProject2\\NUnitTestProject2\\NUnitTestProject2.csproj",
+        "projectUniqueName": "D:\\Projects\\Selenium\\SeleniumKarthikVideo\\NUnitTestProject2\\NUnitTestProject2.csproj",
         "projectName": "NUnitTestProject2",
-        "projectPath": "C:\\Users\\sergi\\source\\repos\\NUnitTestProject2\\NUnitTestProject2\\NUnitTestProject2.csproj",
+        "projectPath": "D:\\Projects\\Selenium\\SeleniumKarthikVideo\\NUnitTestProject2\\NUnitTestProject2.csproj",
         "packagesPath": "C:\\Users\\sergi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sergi\\source\\repos\\NUnitTestProject2\\NUnitTestProject2\\obj\\",
+        "outputPath": "D:\\Projects\\Selenium\\SeleniumKarthikVideo\\NUnitTestProject2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
