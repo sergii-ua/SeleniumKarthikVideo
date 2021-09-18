@@ -180,7 +180,6 @@ D:\Projects\Selenium\SeleniumKarthikVideo\NUnitTestProject2\bin\Debug\netcoreapp
 D:\Projects\Selenium\SeleniumKarthikVideo\NUnitTestProject2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 D:\Projects\Selenium\SeleniumKarthikVideo\NUnitTestProject2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 D:\Projects\Selenium\SeleniumKarthikVideo\NUnitTestProject2\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-D:\Projects\Selenium\SeleniumKarthikVideo\NUnitTestProject2\obj\Debug\netcoreapp3.1\NUnitTestProject2.csprojAssemblyReference.cache
 D:\Projects\Selenium\SeleniumKarthikVideo\NUnitTestProject2\obj\Debug\netcoreapp3.1\NUnitTestProject2.AssemblyInfoInputs.cache
 D:\Projects\Selenium\SeleniumKarthikVideo\NUnitTestProject2\obj\Debug\netcoreapp3.1\NUnitTestProject2.AssemblyInfo.cs
 D:\Projects\Selenium\SeleniumKarthikVideo\NUnitTestProject2\obj\Debug\netcoreapp3.1\NUnitTestProject2.csproj.CopyComplete
